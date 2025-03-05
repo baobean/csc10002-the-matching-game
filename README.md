@@ -1,2 +1,2 @@
-# csc10002-the-matching-game
+# The Matching Game
 A Pikach-Puzzle game developed on C++
